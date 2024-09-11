@@ -2,6 +2,7 @@
 
 - 🌱 Atualmente estou estudando desenvolvimento web, focando em garantir o melhor desempenho para o usuário, suas interações, e mantendo sempre a segurança e a responsabilidade com as informações.
 - 📫 Como me encontrar: vitorvictorblasq@gmail.com
+- 🔭 Meu Portfólio: https://vitorvictorportfolio.netlify.app
 
 Hard Skills:
 <div style="display: inline_block"><br>
@@ -29,8 +30,6 @@ Hard Skills:
 **VitoorVictor/VitoorVictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
