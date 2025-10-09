@@ -12,14 +12,14 @@ Atuo criando **interfaces modernas, performáticas e seguras**, com foco em entr
 ### 💼 Experiência Profissional
 
 **🧩 MS1 Sistemas — Desenvolvedor de Software Júnior**  
-📅 *Março de 2025 — o momento*  
+📅 *Setembro de 2024 — o momento*  
 🏢 *Umuarama, Paraná — Presencial*  
 
 - Implementação de novas funcionalidades e melhorias na interface  
 - Otimização de desempenho e acessibilidade  
 - Integração com APIs e consumo de dados  
 - Estilização com **Tailwind CSS** e **shadcn/ui**  
-- Colaboração com as equipes de design e backend  
+- Colaboração com as equipes de devops e backend  
 - Correção de bugs e aplicação de boas práticas de frontend  
 > *Principais tecnologias: Next.js, Node.js, React, Tailwind, shadcn/ui*
 
