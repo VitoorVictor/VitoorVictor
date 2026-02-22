@@ -3,7 +3,7 @@
 Sou **Desenvolvedor Frontend** com sólida experiência em **Next.js, React e Vite**, além de conhecimentos em **Node.js, NestJS, SQL e Docker**.  
 Atuo criando **interfaces modernas, performáticas e seguras**, com foco em entregar a melhor experiência ao usuário, mantendo boas práticas de arquitetura e escalabilidade.  
 
-🎓 Cursando **Sistemas de Informação**  
+🎓 Graduado **Sistemas de Informação**  
 💼 Atualmente, **Desenvolvedor de Software Júnior na MS1 Sistemas**  
 🚀 Busco evoluir continuamente como **Full Stack Developer**, aplicando tecnologias modernas e práticas de desenvolvimento eficientes.
 
